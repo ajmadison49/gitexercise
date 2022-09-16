@@ -1,6 +1,7 @@
 # added a header
 # author a.j. madison
 # class COMP 4581
+# author email aj.madison@du.com
 import sys
 import argparse
 import datetime
