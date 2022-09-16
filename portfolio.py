@@ -1,4 +1,6 @@
-# added a header.
+# added a header
+# author a.j. madison
+# class COMP 4581
 import sys
 import argparse
 import datetime
